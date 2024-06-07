@@ -24,6 +24,7 @@
     "no-unused-vars": "off",
     "react/no-unescaped-entities": "off",
     "import/no-unresolved": "off",
+    "no-console": "off",  // Add this line to disable the no-console rule
     "prettier/prettier": [
       "error",
       {
